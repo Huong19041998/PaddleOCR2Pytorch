@@ -23,7 +23,7 @@ python converter/convert_rec.py --yaml_path ./configs/rec/PP-OCRv4/en_PP-OCRv4_r
 # INFERENCE IN PYTORCH
 ### QUICK INSTALLATION 
 ```bash
-pip install -rrequirements_inference.txt
+pip install -r requirements_inference.txt
 ```
 
 ### Inference cli
