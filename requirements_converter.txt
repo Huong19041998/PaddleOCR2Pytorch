@@ -1,0 +1,10 @@
+
+
+shapely
+numpy
+pillow
+pyclipper
+opencv-python <= 4.2.0.32
+torch
+torchvision
+paddlepaddle==2.0.0
