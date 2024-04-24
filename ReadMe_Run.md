@@ -7,7 +7,7 @@ pip install -r requirements_converter.txt
 ### Down load PaddleOCR models
 [Model List](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/doc/doc_en/models_list_en.md
 )
-###  OCR MODELS
+### CONVERT OCR MODELS
 
 ```bash
 #cls
